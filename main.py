@@ -66,7 +66,7 @@ def run_conversion():
  messagebox.showerror("Error", "Нет связи с сервером")
 
 root = tk.Tk()
-root.title("Currency Converter")
+root.title("Currency Converter(Конвертер валют)")
 root.geometry("500x550")
 
 currencies = ["USD", "EUR", "RUB", "BYN", "KZT", "GBP"]
