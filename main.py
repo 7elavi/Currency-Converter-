@@ -1,4 +1,4 @@
-
+А
 import tkinter as tk
 from tkinter import ttk, messagebox
 import requests
@@ -67,7 +67,7 @@ def run_conversion():
 
 root = tk.Tk()
 root.title("Currency Converter(Конвертер валют)")
-root.geometry("500x550")
+root.geometry("510x560")
 
 currencies = ["USD", "EUR", "RUB", "BYN", "KZT", "GBP"]
 
